@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Generated encryption outputs
+data_cipher.txt
+key_cipher.txt
+key.txt
+hash.txt
+wordlist.txt
+
+# Private keys
+*.pem
+*.key
+*.bin
